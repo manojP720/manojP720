@@ -119,10 +119,13 @@
 # 📫 Connect With Me
 
 📧 Email
+kingmanumanoj0@gmail.com
 
 💼 LinkedIn
+https://www.linkedin.com/in/manoj-p-1646b7386?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 🌐 Portfolio
+https://manojportfolio777.netlify.app/
 
 ---
 
