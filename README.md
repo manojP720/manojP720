@@ -15,7 +15,6 @@
 
 
 
-
 <div align="center">
 
 ###  "Build in silence. Let the code introduce you."
